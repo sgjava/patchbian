@@ -54,17 +54,17 @@ command prompt without having to use the web UI (except deleting forked repo).
     * `git commit -S -m "XU4 add gpio-line-names"`
 * Create pull request (select armbian/build as base repo and push branch to your fork)
     * `gh pr create --title "XU4 add gpio-line-names" --body "Aded gpio-line-names, connector and physical pin number"`
-    `? Which should be the base repository (used for e.g. querying issues) for this directory? armbian/build`
-    `? Where should we push the 'add-gpio-line-names' branch? yourgithub/build`
-    ``
-    `Creating pull request for yourgithub:add-gpio-line-names into master in armbian/build`
-    ``
-    `Username for 'https://github.com': your@email.com`
-    `Password for 'https://your@email.com@github.com': `
-    `remote:` 
-    `remote:` 
-    `To https://github.com/yourgithub/build.git`
-    ` * [new branch]        HEAD -> add-gpio-line-names`
-    `Branch 'add-gpio-line-names' set up to track remote branch 'add-gpio-line-names' from 'origin'.`
-    `https://github.com/armbian/build/pull/prnum`
+      `? Which should be the base repository (used for e.g. querying issues) for this directory? armbian/build`
+      `? Where should we push the 'add-gpio-line-names' branch? yourgithub/build`
+      ``
+      `Creating pull request for yourgithub:add-gpio-line-names into master in armbian/build`
+      ``
+      `Username for 'https://github.com': your@email.com`
+      `Password for 'https://your@email.com@github.com': `
+      `remote:` 
+      `remote:` 
+      `To https://github.com/yourgithub/build.git`
+      ` * [new branch]        HEAD -> add-gpio-line-names`
+      `Branch 'add-gpio-line-names' set up to track remote branch 'add-gpio-line-names' from 'origin'.`
+      `https://github.com/armbian/build/pull/prnum`
     
